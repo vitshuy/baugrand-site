@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baugrand-site/static/css/main.61c1ec5b.css",
+    "main.js": "/baugrand-site/static/js/main.d07926d1.js",
+    "index.html": "/baugrand-site/index.html",
+    "main.61c1ec5b.css.map": "/baugrand-site/static/css/main.61c1ec5b.css.map",
+    "main.d07926d1.js.map": "/baugrand-site/static/js/main.d07926d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c1ec5b.css",
+    "static/js/main.d07926d1.js"
+  ]
+}
